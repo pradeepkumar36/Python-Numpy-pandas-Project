@@ -31,7 +31,7 @@ In comparison to resort hotels, city hotels  have more bookings. It is possible 
  ![image](https://github.com/user-attachments/assets/e9cfd90a-cde7-49b9-8b30-9bfbe9ecf125)
 
 
-The line graph above shows that, on certain days, the average daily rate for a city hotel is less than of a resort hotel, and on other days, it is even less. It goes without saying that weekends and holydays may see a rise in resort hotel rates.
+The line graph above shows that, on certain days, the ADR(average daily rate) for a city hotel is less than of a resort hotel, and on other days, it is even less. It goes without saying that weekends and holydays may see a rise in resort hotel rates.
 
 
   ![image](https://github.com/user-attachments/assets/8ecd1a84-e2d4-425f-95cc-8e51e859f471)
